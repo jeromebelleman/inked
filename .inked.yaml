@@ -1,0 +1,1 @@
+command: urxvt -e vim %s
